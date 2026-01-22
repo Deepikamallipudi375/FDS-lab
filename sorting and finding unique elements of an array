@@ -1,0 +1,6 @@
+mport numpy as np
+h = [1,2,5,7,9,5,6,3,7]
+h1=np.sort(h)
+print(h)
+h2=np.unique(h)
+print(h2)
